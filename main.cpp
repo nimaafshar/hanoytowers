@@ -1,5 +1,7 @@
 /*
-agar dar ejraye file
+    agar dar compile ya ejraye baranme moshkel dashtid
+    mitavanid file .exe ra dar github ba adresse zir peyda konid (dar foldere bin/debug)
+    https://github.com/nimaafshar/hanoytowers
 */
 #include <graphics.h>
 #include <dos.h>
