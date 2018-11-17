@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542442639 source:d:\c_files\hanoy_towrers\main.cpp
+	<graphics.h>
+	<dos.h>
+	<stdio.h>
+
